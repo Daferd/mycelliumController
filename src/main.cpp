@@ -17,7 +17,7 @@ String password = "burbano99";
 
 String path = "/users/bei26NtS0lbsqdX4fqsWDLJbLUx1/";
 
-//FIREBASE/*
+//FIREBASE/*nuevo comentario
 FirebaseData firebaseData;                                      // Objeto de tipo FirebaseData, ayuda a leer y escribri en la base de datos.
 FirebaseJson canalesData;
 FirebaseJsonData jsData;
