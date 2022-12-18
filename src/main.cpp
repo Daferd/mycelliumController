@@ -60,6 +60,7 @@ void setup() {
 
 void loop() {
 
+  //NUEVO COMENTARIO DE PRUEBA
   /*
   if(Firebase.get(firebaseData,path+"/channels/channel1")){
       //digitalWrite(2,HIGH);
